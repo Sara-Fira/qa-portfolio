@@ -1,4 +1,4 @@
-##Login
+## Login
 
 
 | Test Case ID | Title | Preconditions | Environment | Steps | Expected Result | Status |
@@ -9,7 +9,7 @@
 | TC-004 | Login without password | None | Chrome/Windows 10 | 1. Open https://www.saucedemo.com/<br>2. Enter username<br>3. Leave password empty<br>4. Click “Login” button | Error message “Password is required” is displayed | Pass |
 
 
-##Cart
+## Cart
 
 
 
@@ -19,7 +19,7 @@
 | TC-006 | Remove product from cart | Product is in cart | Chrome/Windows 10 | 1. Open cart<br>2. Click “Remove”<br>3. Check cart | Product is removed from cart | Pass |
 
 
-##Checkout
+## Checkout
 
 
 | Test Case ID | Title | Preconditions | Environment | Steps | Expected Result | Status |
