@@ -19,4 +19,4 @@ I am currently building my skills in manual testing, test case design, and bug r
 - Manual testing
 - Test case design
 - Bug reporting
-- Basic Java (learning)
+- Basic JavaScript (learning)
